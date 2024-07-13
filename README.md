@@ -1,2 +1,2 @@
 # jsprojects
-This is a repo of some vanilla javascript projectşmade by me
+This is a repo of some vanilla javascript projects made by me
